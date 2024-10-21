@@ -21,4 +21,4 @@ O site do IPEA disponibiliza uma biblioteca Python que ajuda nas requisições d
 O IBGE também disponibiliza uma [API](https://servicodados.ibge.gov.br/api/docs/localidades) para consultas de código de região onde utilizamos para melhor idêntificação dos territórios, já que a API do IPEA identifica apenas por código de território. 
 
 ### Projeto no Databriks
-[url](https://community.cloud.databricks.com/?o=2529677648243962#notebook/2033834618209058)
+[Clique aqui para acessar o notebook no Databriks]([https://community.cloud.databricks.com/?o=2529677648243962#notebook/2033834618209058](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2529677648243962/2033834618209058/5227400064554836/latest.html))
