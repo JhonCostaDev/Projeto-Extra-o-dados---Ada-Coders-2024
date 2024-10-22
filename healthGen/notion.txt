@@ -1,0 +1,15 @@
+# Processo de extração de dados
+
+1. Fonte de dados: Idêntificar a fonte de dados desejada
+    news api - https://newsapi.org/
+
+2. Api's  e webhooks: 
+    * API: Regras que permitem interação com banco de dados.
+    * Webhooks: Recebimento assíncrono de dados.
+
+    * Configurar o Webhook no Sistema de Gerenciamento: Isso depende do sistema que você está usando, mas geralmente, há uma opção para adicionar um webhook e definir uma URL que será chamada quando o evento ocorrer.
+
+    Criar um Endpoint com Flask: instale Flask
+    $ pip install flask
+    TODO: Pesquisar Ngrok
+3. 
